@@ -17,4 +17,4 @@ Data Visualization : Plotly, Seaborn, Matplotlib
 
 ## Key Findings
 
-The data analysis reveals that business has a significant customer base in Maharashtra, mainly servers retailers, fulfills orders through Amazon, experiences high demand for T-shirts and sees M-size as the preferred choice among buyers.
+The data analysis reveals that business has a significant customer base in Maharashtra, mainly serves retailers, fulfills orders through Amazon, experiences high demand for T-shirts and sees M-size as the preferred choice among buyers.
